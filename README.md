@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced ML, Deep Learning, JavaScript, Selenium, Cypress**
 
-- 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
+- 👨‍💻 All of my projects are available at my profile.
 
 - 📫 You can reach to me at **kartsri2507@gmail.com** 
 
